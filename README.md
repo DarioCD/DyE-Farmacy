@@ -2,6 +2,8 @@
 
 ## <a name="descripcion"> </a> Descripción
 
+This is a repository that works and clone it here, this is the link -> https://github.com/Wonternal/DyE-Farmacy.git
+
 DyE Farmacy es una aplicación web que permite a los usuarios comprar productos farmacéuticos y medicamentos de forma conveniente a través de Internet. La aplicación está construida con una arquitectura cliente-servidor, utilizando React en el lado del cliente y Spring Boot en el lado del servidor.
 
 ## <a name="requisitos"> </a> Requisitos del sistema
